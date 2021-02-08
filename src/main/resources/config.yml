@@ -1,0 +1,5 @@
+database:
+  host: "91.121.222.186"
+  user: "RootAdmin"
+  pass: "PasswordForInCrafty"
+  bdd: "admin"

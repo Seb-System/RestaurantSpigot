@@ -1,0 +1,8 @@
+name: Restau
+version: ${project.version}
+main: fr.ishield.restau.Main
+api-version: 1.16
+authors: [ iShield_Dev ]
+description: Plugin of restaurants
+commands:
+  restau:
